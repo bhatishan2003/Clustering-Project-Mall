@@ -1,3 +1,3 @@
 # demo
 first-repo
-    -Ishan
+    -Ishan(Learning Git)
