@@ -15,7 +15,7 @@ We chose the k-means clustering algorithm due to its simplicity and efficiency i
 
 ## Dataset
 
-The dataset used in this project contains information on individuals' salary and spending score. It was obtained from [www.kaggle.com] and preprocessed to handle any missing values or outliers.
+The dataset used in this project contains information on individuals' salary and spending score. It was obtained from [(https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?resource=download)] and preprocessed to handle any missing values or outliers.
 
 ## Results
 
